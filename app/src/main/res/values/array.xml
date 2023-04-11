@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carBluetoothTitle">
+        <item>一键全开</item>
+        <item>前大灯亮</item>
+        <item>前后日行灯亮</item>
+        <item>左侧转向灯亮</item>
+        <item>右侧转向灯亮</item>
+        <item>刹车灯</item>
+        <item>倒车灯</item>
+        <item>左侧座椅前进</item>
+        <item>左侧座椅后退</item>
+        <item>右侧座椅前进</item>
+        <item>右侧座椅后退</item>
+        <item>内饰按键</item>
+        <item>内饰氛围灯</item>
+        <item>手球氛围灯</item>
+        <item>主屏</item>
+
+
+    </string-array>
+
+</resources>
